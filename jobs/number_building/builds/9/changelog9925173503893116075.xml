@@ -1,0 +1,9 @@
+commit aa3aa335bb2506a88a44d872d2e35da8ca5fe4a8
+tree d68a3451641eeeff70894f88298ff71cc2a0b014
+parent 69b3013fb1041b59558ea46dc9e29bae324d2f48
+author sushbsush <118243227+sushbsush@users.noreply.github.com> 2022-12-02 18:53:38 +0530
+committer GitHub <noreply@github.com> 2022-12-02 18:53:38 +0530
+
+    Update jenkins_jfrog
+
+:100644 100644 5d053fa1062d7d25ad4afd3b66c7cc3caeb8c8a4 86af4bc949db0985d5434089b5569ffcea2cb05e M	jenkins_jfrog

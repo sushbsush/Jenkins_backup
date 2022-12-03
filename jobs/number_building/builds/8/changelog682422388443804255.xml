@@ -1,0 +1,27 @@
+commit 69b3013fb1041b59558ea46dc9e29bae324d2f48
+tree ec3e5b8f9a4f5f76d21ab812e11fd6329885de9a
+parent 548bac491108694938e2dc9dc60e497dfa9784ba
+author sushbsush <118243227+sushbsush@users.noreply.github.com> 2022-12-02 18:50:42 +0530
+committer GitHub <noreply@github.com> 2022-12-02 18:50:42 +0530
+
+    Update jenkins_jfrog
+
+:100644 100644 bccc7199203711f9aae971d4ca38abe6ba8e568d 5d053fa1062d7d25ad4afd3b66c7cc3caeb8c8a4 M	jenkins_jfrog
+commit 548bac491108694938e2dc9dc60e497dfa9784ba
+tree e921a2e7ae21e952e0d8e5e784e9e04b99b443e7
+parent ca0d4c95168386787bf42c1f49cd344f00376936
+author sushbsush <118243227+sushbsush@users.noreply.github.com> 2022-12-02 18:49:25 +0530
+committer GitHub <noreply@github.com> 2022-12-02 18:49:25 +0530
+
+    Update jenkins_jfrog
+
+:100644 100644 984ba9c5c0967ffc44fbb03f6d05e508879dd10d bccc7199203711f9aae971d4ca38abe6ba8e568d M	jenkins_jfrog
+commit ca0d4c95168386787bf42c1f49cd344f00376936
+tree a87cc7b107feb18a965419decace2130472a474d
+parent 9a8ff570b280a9aa98ce59eb0480bec8f186147f
+author sushbsush <118243227+sushbsush@users.noreply.github.com> 2022-12-02 18:46:31 +0530
+committer GitHub <noreply@github.com> 2022-12-02 18:46:31 +0530
+
+    Update jenkins_jfrog
+
+:100644 100644 d3df3c70dabdeb7787ed07d1597cb538660de527 984ba9c5c0967ffc44fbb03f6d05e508879dd10d M	jenkins_jfrog
