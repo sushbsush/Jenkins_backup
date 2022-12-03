@@ -1,0 +1,10 @@
+Started by user [8mha:////4JSdMrMR0OGMJWXFfy5QFfsdhu8yk/R3KkWPhmXhu1ZJAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL94tLiDABAZe0+vwAAAA==[0msushmitha
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/demo
+[demo] $ /bin/sh -xe /tmp/jenkins13620459809090614676.sh
++ pwd
+/var/lib/jenkins/workspace/demo
++ ls
++ whoami
+jenkins
+Finished: SUCCESS
